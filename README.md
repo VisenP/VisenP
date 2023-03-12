@@ -7,7 +7,7 @@
 <pre>
 <div align="center">
 > About me<br>
-I am an 17 year old full-stack developer from Croatia, currenly in my final year of high school. I am always working on personal and professional projects, learning new technologies, improving my skills and I am always looking forward to new opertunities. Apart from software development and enjoy playing chess and competetive programing.
+I am an 17 year old full-stack developer from Croatia, currenly in my final year<br/> of high school. I am always working on personal and professional projects, learning <br/>new technologies, improving my skills and I am always looking forward to new opertunities.<br/> Apart from software development and enjoy playing chess and competetive programing.
 </div>
 </pre>
 
