@@ -14,7 +14,7 @@ I am an 17 year old full-stack developer from Croatia, currenly in my final year
 #### What  I do?
 <pre>
 <div align="center">
-> Some of my open source projects<br>
+> Open source projects<br>
 +------kontestis------------------------------+
 |                                             |
 | Repo: <a href="https://github.com/ItKlubBozoLagan/kontestis">kontestis</a>                             |
@@ -25,7 +25,7 @@ I am an 17 year old full-stack developer from Croatia, currenly in my final year
 | management platform                         |
 +---------------------------------------------+
 
-Soon...
+Coming soon...
 
 
 > Personal projects<br>
@@ -52,11 +52,10 @@ Soon...
 </div>
 </pre>
 
-#### Talk to me?
+#### Contact me
 <br>
 <pre>
 <div align="center">
-> Contact me<br>
 Email - visen@visen.dev
 LinkedIn - <a href="https://linkedin.com/in/visenpavlica">in/visenpavlica</a>
 Twitter - <a href="https://twiter.com/NotVisen">@NotVisen</a>
